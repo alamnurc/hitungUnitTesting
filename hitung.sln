@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hitung", "hitung\hitung.csproj", "{EF7A52D6-FCFA-4F05-8C3A-CB33C297DD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hitungTests", "hitungTests\hitungTests.csproj", "{0AE018EA-0E0C-4B91-81B9-E13BE4E053FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7A52D6-FCFA-4F05-8C3A-CB33C297DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7A52D6-FCFA-4F05-8C3A-CB33C297DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7A52D6-FCFA-4F05-8C3A-CB33C297DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7A52D6-FCFA-4F05-8C3A-CB33C297DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE018EA-0E0C-4B91-81B9-E13BE4E053FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE018EA-0E0C-4B91-81B9-E13BE4E053FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE018EA-0E0C-4B91-81B9-E13BE4E053FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE018EA-0E0C-4B91-81B9-E13BE4E053FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798F1DFE-31D9-4516-AE9E-244E8D3E1DC0}
+	EndGlobalSection
+EndGlobal
